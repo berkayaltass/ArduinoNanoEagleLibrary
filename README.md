@@ -17,4 +17,4 @@ Kütüphanenin EagleCAD' de Schematic üzerinde görünümü :
 
 Kütüphanenin EagleCAD' de PCB üzerinde görünümü : 
 
-![alt text](https://github.com/berkayaltass/ArduinoNanoEagleLibrary/blob/master/pcbgorunum.png
+![alt text](https://github.com/berkayaltass/ArduinoNanoEagleLibrary/blob/master/pcbgorunum.png)
