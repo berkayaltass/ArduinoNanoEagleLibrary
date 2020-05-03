@@ -10,3 +10,7 @@ Kütüphanenin çizimi gerçekleştirilirken Arduino Nano' nun gerçek ölçüle
 
 
 ![alt text](https://github.com/berkayaltass/ArduinoNanoEagleLibrary/blob/master/arduinonanomechanicaldrawing.jpg)
+
+Kütüphanenin EagleCAD' de Schematic üzerinde görünümü : 
+
+![alt text](https://github.com/berkayaltass/ArduinoNanoEagleLibrary/blob/master/schematicgorunum.png)
