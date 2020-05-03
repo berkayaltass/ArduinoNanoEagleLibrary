@@ -1,1 +1,1 @@
-# ArduinoNanoEagleLibrary
+# Arduino Nano EagleCAD Library
