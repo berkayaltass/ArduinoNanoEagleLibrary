@@ -9,3 +9,4 @@ Bu işlem gerçekleştirildikten sonra EagleCAD Control Panel üzerinde ArduinoN
 Kütüphanenin çizimi gerçekleştirilirken Arduino Nano' nun gerçek ölçüleri esas alınmıştır. Bu ölçüler aşağıdaki gibidir.
 
 
+![alt text](https://github.com/berkayaltass/ArduinoNanoEagleLibrary/blob/master/arduinonanomechanicaldrawing.jpg)
